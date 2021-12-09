@@ -1,4 +1,4 @@
-# Student-Report-Card-ManagementSystem 
+# Student-Report-Card-Management-System 
 
 This repository contains my second semester Project. A management system designed for managing student's details and information about his marks. 
 Implemented using  Object Oriented Programming Methodology and  C++. 
