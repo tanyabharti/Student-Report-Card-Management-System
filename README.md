@@ -6,8 +6,8 @@ Implemented using  Object Oriented Programming Methodology and  C++.
 
 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗖𝗼𝗺𝗽𝗶𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁:
 
-1.After downloading all the attached files, put them in a separate folder where you use to 
-compile on Linux with gcc/g+.
+1.After downloading all the attached files, put them in a separate folder where you want to 
+compile on Linux/Windows with gcc/g++.
 
 2.Open your local gcc/g++ compiler. 
 
